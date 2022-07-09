@@ -1,4 +1,4 @@
-CSGO-Portoflio [CLOSED]
+CSGO-Portoflio
 ===========================================
 
 This repository will track my CSGO investments using a csvFile.
